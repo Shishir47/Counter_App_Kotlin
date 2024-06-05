@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="myXt">This is my First App</string>
+    <string name="btn_txt">Cannot Count Backwards</string>
+</resources>
